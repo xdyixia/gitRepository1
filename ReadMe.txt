@@ -1,3 +1,3 @@
-gitRepository1仓库的第一个文件
-ReadMe
-时光机穿梭
+﻿git学习
+2018/6/21
+la la  la la  lala lala la
